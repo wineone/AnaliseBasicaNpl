@@ -10,6 +10,6 @@ Clone o repositório e no terminal dentro da pasta execute:
 jupyter notebook
 ```
 
-Ou clique no aquivos pipeline.ipynb que o git rodará para você.
+Ou clique no aquivo pipeline.ipynb que o git rodará para você.
 
 
