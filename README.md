@@ -1,15 +1,13 @@
-# Processamento de linguagem natural com Python
+# Estudos NPL
 
-Notebook com técnicas básicas de processamento de liguagem natural que foi desnvolvido como um estudo para o projeto de NPL - UFCG.
+Notebooks dividos em semanas indicando a evolução do estudo em processamento de linguagem natural.
 
 ## Para executar
 
-Clone o repositório e no terminal dentro da pasta execute:
+Clone o repositorio, entre em alguma das pastas e digite:
 
 ```
 jupyter notebook
 ```
 
-Ou clique no aquivos pipeline.ipynb que o git rodará para você.
-
-
+Ou ente na pasta e clique no notebook, o git executará para você.
